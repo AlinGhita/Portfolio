@@ -58,6 +58,13 @@ __Browser developer tools__
 
 __VirtualBox__
   * able to set up and operate virtual machines
+  
+## Examples of my work
+* ### [Bugs I found while browsing the internet](https://github.com/AlinGhita/Bugs-I-Found)
+
+* ### [Test cases](https://github.com/AlinGhita/TestCases)
+
+* ### [Bug reports](https://github.com/AlinGhita/BugReport) 
 
 ## Courses
 
@@ -69,14 +76,9 @@ __VirtualBox__
 *online courses by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy*  
  An introductory course (9.5 h) to software testing
 
-
-## Examples of my work
-
-* ### [Test cases](https://github.com/AlinGhita/TestCases)
-
-* ### [Bug reports](https://github.com/AlinGhita/BugReport) 
-
 ## Websites I read
-* [__"Software Testing Help"__](https://www.softwaretestinghelp.com/)
+* [__Software Testing Help__](https://www.softwaretestinghelp.com/)
 
-* [__"Guru99"__](https://www.guru99.com/software-testing.html)
+* [__Guru99__](https://www.guru99.com/software-testing.html)
+
+* [__Ministry of Testing__](https://www.ministryoftesting.com/)
