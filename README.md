@@ -1,6 +1,5 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
@@ -10,9 +9,6 @@
 ## About me
 
 My name is Alin Ghita. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I believe that high quality is the bestselling point of services and products. Thanks to my previous experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. My international experience has also equipped me with valuable tools, such as open-mindedness and adaptability. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in software testing.
-
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1J5lpWsUK2-AxfJS4JHh3taLEKUoa0MAl/view?usp=sharing).
 
 ## Skills
 
